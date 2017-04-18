@@ -41,20 +41,3 @@ for i in xrange(1, t + 1):
   else:
     print("Case #{}: {}".format(i, flip_count))
 
-
-      # print "1st n", n, ": ", index
-      # flip_count+=1
-      # for j in xrange(0, t):
-      #   if((index+j)<len(n_list)):
-      #     print "hi this many times: ", j
-      #     print "n_list[index+j] ", index+j
-      # if n_list[index+j]=="+":
-      #   n_list[index+j]="-"
-      #   print "bang"
-      # elif n_list[index+j]=="-":
-      #   n_list[index+j]="+"
-      #   print "boom"
-
-
-  #print "Case #{}: {} {}".format(i, n + m, n * m)
-  # check out .format's specification for more formatting options

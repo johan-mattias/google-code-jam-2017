@@ -1,1 +1,0 @@
-# google-code-jam-2017
